@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yyn0409
+-     MBTI:INFJ-T
 - 👀 I’m interested in sports (except running), dancing, Otome games.
-- 🌱 I’m currently learning Software engineering.
+- 🌱 I’m currently learning Software engineering, KRE and so on.
 - 📫 How to reach me. Email: 13514971469@163.com. Wechat: yyn3443077
 
 <!---
